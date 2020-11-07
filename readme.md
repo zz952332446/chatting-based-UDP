@@ -21,3 +21,5 @@ socket结束
 ![主机1](https://upload-images.jianshu.io/upload_images/13975801-a005459c930f4902.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![主机2](https://upload-images.jianshu.io/upload_images/13975801-b5135199fa34ffbd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+PS：已同步至个人简书主页：https://www.jianshu.com/p/e1e7d0441376
